@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "E6D8B714-45E7-4D6C-8318-AE87CCADC547",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A5B8D56E-E07E-4D68-830C-18E17DBC667C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A123B471-2FF9-4833-89CC-3E6FA31E76BA",
+    "height": 42,
+    "width": 118,
+    "x": 189,
+    "y": 568
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Moleecule / button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "748BC6C3-0C04-419C-A58C-91206F5D1425",
+      "overrideName": "F7B28A34-D367-4548-9B6B-F43936F756A2_stringValue",
+      "value": "Submit"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "462BE3B6-5CF5-4516-9C30-B8AA3C0B43FC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "54D24BF8-1A3A-4B66-92EB-A47CF71E705D",
+  "verticalSpacing": 0
+}

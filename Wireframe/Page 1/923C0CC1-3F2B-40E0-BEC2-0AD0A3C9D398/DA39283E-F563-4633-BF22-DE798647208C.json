@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "DA39283E-F563-4633-BF22-DE798647208C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F59CCD26-C216-4BBC-89DA-691FF61496BB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D92D17D7-7BEA-4D78-A876-DACCA1B2785C",
+    "height": 39,
+    "width": 146,
+    "x": 102,
+    "y": 275
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecule / label",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BC7B876B-9466-4105-BD18-BFF299A887A0",
+      "overrideName": "69D2B069-D0B3-4F5F-AB13-2265BD255674_stringValue",
+      "value": "Security Questions"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A477D83-39DE-4E02-A0AE-027E2FD07E7A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "54877F11-D6E6-4173-A60F-27B6ECD34A21",
+  "verticalSpacing": 0
+}

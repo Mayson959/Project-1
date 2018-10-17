@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "054E4208-CFF8-44F2-8DCD-904F28CFCA6C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "45EF8C07-AD2D-46D3-8C61-BCADC908A61C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "850E5DBB-9BD2-4D29-8094-458B25A1DF6F",
+    "height": 58,
+    "width": 239,
+    "x": 70,
+    "y": 180
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Moleculee / username",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4BDC681B-CBC0-4B68-A969-D6D305AD9337",
+      "overrideName": "9ED8F7AD-52FF-47D2-AB6A-684DFCA44220_stringValue",
+      "value": "Create Username"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4730141B-1A29-4698-8F99-D5913953BEBE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DFDB8B9E-6D24-475A-9725-31F63DB54CC4",
+  "verticalSpacing": 0
+}

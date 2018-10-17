@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "17B97F6B-0A6C-4D50-B1C4-FD6DC4EC4365",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "29587B6C-55FD-43C2-B438-A1AED2FFA407",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CBF9D322-9940-443D-B714-C8CEC79FCAAC",
+    "height": 39,
+    "width": 180,
+    "x": 99,
+    "y": 171
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecule / Title",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "587D3933-187B-4148-88BD-3C95E87E8F49",
+      "overrideName": "69D2B069-D0B3-4F5F-AB13-2265BD255674_stringValue",
+      "value": "Confirmation"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D0BFFC4F-27F5-4C9C-AB07-B44FC697072A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "54877F11-D6E6-4173-A60F-27B6ECD34A21",
+  "verticalSpacing": 0
+}

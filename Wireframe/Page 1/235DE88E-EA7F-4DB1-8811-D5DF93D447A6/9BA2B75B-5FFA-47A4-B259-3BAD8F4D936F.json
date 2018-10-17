@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "9BA2B75B-5FFA-47A4-B259-3BAD8F4D936F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2D060D4D-5D73-46C9-8473-E2ECB5DBD8A6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BF89ED3D-A794-4306-8EC1-A283BCD90C68",
+    "height": 42,
+    "width": 118,
+    "x": 130,
+    "y": 458
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Moleecule / Back to Login",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "748BC6C3-0C04-419C-A58C-91206F5D1425",
+      "overrideName": "F7B28A34-D367-4548-9B6B-F43936F756A2_stringValue",
+      "value": "Back to Login"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "456265DF-0FB2-451F-86A7-8F0B8AC5690E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "54D24BF8-1A3A-4B66-92EB-A47CF71E705D",
+  "verticalSpacing": 0
+}

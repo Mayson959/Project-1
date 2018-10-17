@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "1543EB1E-273A-46FB-ADC0-B7EE9F9A73F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F9F837C0-BF60-41AC-BC3C-01BEA6CF3814",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2317FA32-0257-4A6C-8CAE-49AB421939ED",
+    "height": 58,
+    "width": 239,
+    "x": 68,
+    "y": 424
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Moleculee / username Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "37336C57-8A2C-4825-AA11-622559D97A8E",
+      "overrideName": "2BD8454B-6E56-4AC4-8997-C34C1453E559_stringValue",
+      "value": "***********"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "28C2F1D9-25A2-4300-A138-E8B4BCF16A74",
+      "overrideName": "9ED8F7AD-52FF-47D2-AB6A-684DFCA44220_stringValue",
+      "value": "Favorite Superhero"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1DF9C391-A510-42B2-879A-E9D068B8C324",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DFDB8B9E-6D24-475A-9725-31F63DB54CC4",
+  "verticalSpacing": 0
+}

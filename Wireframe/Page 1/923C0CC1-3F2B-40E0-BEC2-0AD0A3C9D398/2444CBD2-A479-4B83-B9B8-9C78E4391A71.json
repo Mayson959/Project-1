@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "2444CBD2-A479-4B83-B9B8-9C78E4391A71",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A77ACD9C-33DD-42B4-83BA-45337017EB45",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1C7DDB64-9F2D-4F26-BE60-EC011879B0B8",
+    "height": 58,
+    "width": 239,
+    "x": 68,
+    "y": 499
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Moleculee / username Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "37336C57-8A2C-4825-AA11-622559D97A8E",
+      "overrideName": "2BD8454B-6E56-4AC4-8997-C34C1453E559_stringValue",
+      "value": "***********"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "28C2F1D9-25A2-4300-A138-E8B4BCF16A74",
+      "overrideName": "9ED8F7AD-52FF-47D2-AB6A-684DFCA44220_stringValue",
+      "value": "Favorite Tv Show"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "17A1B8DB-6EF7-4785-8F64-4714E9CE202E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DFDB8B9E-6D24-475A-9725-31F63DB54CC4",
+  "verticalSpacing": 0
+}

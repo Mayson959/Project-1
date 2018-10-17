@@ -1,0 +1,113 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "15A97C8D-B625-46EF-82FF-133BFF4E85F6",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "235DE88E-EA7F-4DB1-8811-D5DF93D447A6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "89308F68-633F-40F5-8FC7-214AD6B71E80",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C2EF8BD8-6460-404B-8FC0-5C0BF212295C",
+    "height": 667,
+    "width": 375,
+    "x": 172,
+    "y": 2061
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8F562351-20CC-4BC9-AB13-7FDB916231ED",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FB0D2B19-27D0-4F60-BFC5-002CB0370221"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "17B97F6B-0A6C-4D50-B1C4-FD6DC4EC4365"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "483A4725-6C8B-4657-B2EC-4828C63233C1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9BA2B75B-5FFA-47A4-B259-3BAD8F4D936F"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 26.25,
+    "do_objectID": "EB473C04-FAF8-4FB9-8F6E-5FD10397F21A",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 3.333333333333333,
+    "guttersOutside": true,
+    "horizontalOffset": 10,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 355
+  },
+  "name": "iPhone 8 / Sign up Confirmation",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F4BED3FD-70C8-4E85-83A7-10CBC0EE9F36",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E009FB9B-063D-4188-B318-6ABB468C5E04",
+    "guides": [
+    ]
+  }
+}

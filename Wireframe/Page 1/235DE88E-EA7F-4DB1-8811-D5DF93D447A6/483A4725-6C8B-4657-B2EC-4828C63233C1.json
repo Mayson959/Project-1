@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "483A4725-6C8B-4657-B2EC-4828C63233C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "25E113F0-F182-49C0-B711-D75946197965",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EFBB7AEE-D52B-40FF-8BC7-454202B48FFF",
+    "height": 58,
+    "width": 239,
+    "x": 70,
+    "y": 305
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Moleculee / username",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4BDC681B-CBC0-4B68-A969-D6D305AD9337",
+      "overrideName": "9ED8F7AD-52FF-47D2-AB6A-684DFCA44220_stringValue",
+      "value": "Email Verification"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DE6FBFF6-04DC-4892-AC3C-9698AD34F89D",
+      "overrideName": "2BD8454B-6E56-4AC4-8997-C34C1453E559_stringValue",
+      "value": "User@example.com"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F2B224E2-9FBF-4699-93BD-02AD35D022C1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DFDB8B9E-6D24-475A-9725-31F63DB54CC4",
+  "verticalSpacing": 0
+}

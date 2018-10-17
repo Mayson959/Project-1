@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "22062CAC-C728-4869-80D0-A00418B55653",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1C1FD853-FD02-4D14-99A0-E77DE8EFC674",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3A93F9F8-E22C-455F-A046-0F74C48D805E",
+    "height": 58,
+    "width": 239,
+    "x": 70,
+    "y": 266
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Moleculee / Passwerd",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DB9BE529-29A3-40E5-A959-E2C33B495461",
+      "overrideName": "2BD8454B-6E56-4AC4-8997-C34C1453E559_stringValue",
+      "value": "••••••••••••••••"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C33FA1F4-5B4C-425D-96DA-327FECDE2B8F",
+      "overrideName": "9ED8F7AD-52FF-47D2-AB6A-684DFCA44220_stringValue",
+      "value": "Create Passwurd"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B8EBC335-B9A9-4E66-AEAD-2938E7F1335F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DFDB8B9E-6D24-475A-9725-31F63DB54CC4",
+  "verticalSpacing": 0
+}
